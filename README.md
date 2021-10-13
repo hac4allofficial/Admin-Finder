@@ -1,4 +1,5 @@
-#admin Panel Finder2021
+![screenshot from 2021-01-08 12-55-36](https://i.postimg.cc/L6LX1r9Z/newlo9o.png)
+#Admin Panel Finder2021
 A powerful admin login page finder in perl.. Should work with both windows cmd and linux. 
 but make sure you have installed perl in your system.
 
@@ -20,7 +21,6 @@ make sure u have perl installed ...use apt-get install perl
 
 4. `perl admin.pl www.target.com or www.target.com/path`
 
-![screenshot from 2021-01-08 12-55-36](https://i.postimg.cc/L6LX1r9Z/newlo9o.png)
 
 
 
